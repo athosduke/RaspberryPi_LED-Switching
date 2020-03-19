@@ -10,4 +10,4 @@ sudo ./hw2wang1\
 cd ..\
 cd hw2wang2\
 make\
-sudo ./hw2wang2\
+sudo ./hw2wang2
